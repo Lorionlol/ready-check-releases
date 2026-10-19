@@ -4,12 +4,12 @@
 
 **Installer :** ouvre l'onglet [Releases](https://github.com/Lorionlol/ready-check-releases/releases), télécharge `Ready Check Setup x.y.z.exe` et lance-le. Au premier lancement, Windows peut afficher « Windows a protégé votre ordinateur » : clique sur « Informations complémentaires » puis « Exécuter quand même » (le jeu n'est pas encore signé). Ensuite, le launcher installe tout seul les nouvelles versions.
 
-**Sécurité :** chaque version est analysée par [VirusTotal](https://www.virustotal.com) (environ 65 antivirus). Le lien du rapport public et l'empreinte SHA-256 du fichier sont dans les notes de chaque release, section « VirusTotal ». Dernière analyse (3.8.2) : **0/67** — [voir le rapport](https://www.virustotal.com/gui/file/dac2996fd0192fc1a531c9389d2ee1ec8b57655c7e6a4ae71961ff7d20f7d27d).
+**Sécurité :** chaque version est analysée par [VirusTotal](https://www.virustotal.com) (environ 65 antivirus). Le lien du rapport public et l'empreinte SHA-256 du fichier sont dans les notes de chaque release, section « VirusTotal ». Dernière analyse (3.9.0) : **0/60** — [voir le rapport](https://www.virustotal.com/gui/file/e56a5e09ed21c9fd1835bd0a61fbda6f2103d6926be976056dab6ed8ebd10650).
 
 **EN** — A Balatro-like roguelike about the life of an MMO raid leader. This repository only holds the game installer and its updates, not the source code.
 
 **Install:** open [Releases](https://github.com/Lorionlol/ready-check-releases/releases), download `Ready Check Setup x.y.z.exe` and run it. On first launch Windows may show "Windows protected your PC": click "More info", then "Run anyway" (the game is not signed yet). After that, the launcher installs new versions by itself.
 
-**Safety:** every version is scanned by [VirusTotal](https://www.virustotal.com) (about 65 antivirus engines). The public report link and the file's SHA-256 are in each release's notes, « VirusTotal » section. Latest scan (3.8.2): **0/67** — [see the report](https://www.virustotal.com/gui/file/dac2996fd0192fc1a531c9389d2ee1ec8b57655c7e6a4ae71961ff7d20f7d27d).
+**Safety:** every version is scanned by [VirusTotal](https://www.virustotal.com) (about 65 antivirus engines). The public report link and the file's SHA-256 are in each release's notes, « VirusTotal » section. Latest scan (3.9.0): **0/60** — [see the report](https://www.virustotal.com/gui/file/e56a5e09ed21c9fd1835bd0a61fbda6f2103d6926be976056dab6ed8ebd10650).
 
 Discord : loryonlol
